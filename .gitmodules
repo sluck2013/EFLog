@@ -1,0 +1,3 @@
+[submodule "string_converter"]
+	path = string_converter
+	url = git@github.com:sluck2013/string_converter.git
